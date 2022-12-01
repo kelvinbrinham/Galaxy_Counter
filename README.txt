@@ -1,4 +1,3 @@
-A1			         |
 Astronomical Image Proccessing   |
 Edward Jenks and Kelvin Brinham	 |
 _________________________________|
